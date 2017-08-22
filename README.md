@@ -18,7 +18,7 @@
 - <2>git config user.emial 设置用户邮箱
 - <3>git init 初始化项目
 - <4>git add 添加文件
-- <5>git commit -m 提交文件
+- <5>git commit -m '' 提交文件
 - <6>git status 查看文件系统的提交状态
 
 #### 2、版本回退：
